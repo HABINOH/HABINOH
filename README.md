@@ -6,11 +6,11 @@
 </div>
 
 <div align="center">
+  
   #### 👋 안녕하세요 백엔드 개발자 오하빈입니다 👋
 </div>
 
-<!-- GitHub 통계 및 백준 티어 배지를 중앙에 표시, 백준 티어 위에 margin 적용 -->
-<p align="center" style="position: relative; top: 20px;"> <!-- 상단에 margin 추가 -->
+<p align="center" style="position: relative; bottom: 20px;">
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=HABINOH&theme=vue&show_icons=true"/>
     <a href="https://solved.ac/habin226" style="margin-left: 20px;">
