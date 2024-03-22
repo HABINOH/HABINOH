@@ -1,17 +1,20 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHABINOH&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
+<!-- Hits Badge를 오른쪽 상단에 고정 -->
+<div style="position: absolute; right: 0; top: 0; z-index: 1000;">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHABINOH&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  </a>
+</div>
 
 <div align="center">
-  
   #### 👋 안녕하세요 백엔드 개발자 오하빈입니다 👋
 </div>
 
-<p align="center">
+<!-- GitHub 통계 및 백준 티어 배지를 중앙에 표시, 백준 티어 위에 margin 적용 -->
+<p align="center" style="position: relative; top: 20px;"> <!-- 상단에 margin 추가 -->
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=HABINOH&theme=vue&show_icons=true"/>
-    <a href="https://solved.ac/habin226">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=habin226" style="margin-left: 20px;"/>
+    <a href="https://solved.ac/habin226" style="margin-left: 20px;">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=habin226"/>
     </a>
   </div>
 </p>
