@@ -1,13 +1,10 @@
 <div align="center">
   
   #### 👋 안녕하세요 백엔드 개발자 오하빈입니다 👋
+
+  <img src="https://github-readme-stats.vercel.app/api?username=HABINOH&theme=vue&show_icons=true"/>
 </div>
 
-<p align="center">
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=HABINOH&theme=vue&show_icons=true"/>
-  </div>
-</p>
 
 
 
