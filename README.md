@@ -6,9 +6,6 @@
 <p align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=HABINOH&theme=vue&show_icons=true"/>
-    <a href="https://solved.ac/habin226">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=habin226" style="margin-left: 20px;"/>
-    </a>
   </div>
 </p>
 
