@@ -156,7 +156,7 @@
             </details>
         </div>
     </div>
-    <div style="align: left;"> 
+    <div> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 Project </h2>
       <table style="width: 100%; border-collapse: collapse; text-align: center; margin: 20px 0; border: 1px solid #ddd;">
         <thead>
