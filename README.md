@@ -31,5 +31,42 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 Project </h2> 
-        
+    <div style="text-align: left;">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📌 Project</h2>
+  <table style="width: 100%; border-collapse: collapse; text-align: center; margin: 20px 0; border: 1px solid #ddd;">
+    <thead>
+      <tr style="background-color: #f8f8f8; border-bottom: 2px solid #d8dee4;">
+        <th style="padding: 10px; border: 1px solid #ddd;">Subject</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Description</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Member</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Role</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Links</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Period</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">State</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 10px; border: 1px solid #ddd;">Eazi:ONE</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">외국인 노동자들의 민원 서류 자동 번역 및 완성 AI 서비스</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">PM 1, designer 1</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">backend 1, frontend 1</td>
+        <td style="padding: 10px; border: 1px solid #ddd;"><a href="#">Link</a></td>
+        <td style="padding: 10px; border: 1px solid #ddd;">2024.07.15~2024.08.02</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">COMPLETE</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border: 1px solid #ddd;">울반</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">NFC & Bluetooth 기반 오프라인 협업 장려 학급 관리 어플</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">backend 3, mobile 3</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">backend 1, frontend 1</td>
+        <td style="padding: 10px; border: 1px solid #ddd;"><a href="#">Link</a></td>
+        <td style="padding: 10px; border: 1px solid #ddd;">2024.04.07~2024.05.20</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">COMPLETE</td>
+      </tr>
+      <!-- Add more rows as needed -->
+    </tbody>
+  </table>
+</div>
+
     
