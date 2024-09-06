@@ -50,9 +50,9 @@
                                 </tr>
                                 <tr>
                                     <td style="padding: 10px; border: 1px solid #ddd;">2022 대경권 대학생 프로그래밍 경진대회</td>
-                                    <td style="padding: 10px; border: 1px solid #ddd;">동상</td>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">은상</td>
                                     <td style="padding: 10px; border: 1px solid #ddd;">안동대학교 SW 융합원</td>
-                                    <td style="padding: 10px; border: 1px solid #ddd;">2021.12.17</td>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">2022.06.03</td>
                                 </tr>
                                 <tr>
                                     <td style="padding: 10px; border: 1px solid #ddd;">ACK 2021 논문 경진대회</td>
