@@ -14,45 +14,60 @@
                 </summary>
                 <div markdown="1">
                     <ul>
-                        <div style="text-align: left;">
-                            <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏆 Achievements</h2>
-                            <table style="width: 100%; border-collapse: collapse; margin: 20px 0; border: 1px solid #ddd; text-align: center;">
-                                <thead>
-                                    <tr style="background-color: #f8f8f8; border-bottom: 2px solid #d8dee4;">
-                                        <th style="padding: 10px; border: 1px solid #ddd;">Title</th>
-                                        <th style="padding: 10px; border: 1px solid #ddd;">Hosted by</th>
-                                        <th style="padding: 10px; border: 1px solid #ddd;">Period</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td style="padding: 10px; border: 1px solid #ddd;">🏅 삼성 SW 아카데미 자율 프로젝트 경진대회 우수상</td>
-                                        <td style="padding: 10px; border: 1px solid #ddd;">삼성전자</td>
-                                        <td style="padding: 10px; border: 1px solid #ddd;">2024.05.20</td>
-                                    </tr>
-                                    <tr>
-                                        <td style="padding: 10px; border: 1px solid #ddd;">🥈 삼성 SW 아카데미 특화 프로젝트 경진대회 우수상</td>
-                                        <td style="padding: 10px; border: 1px solid #ddd;">삼성전자</td>
-                                        <td style="padding: 10px; border: 1px solid #ddd;">2024.04.05</td>
-                                    </tr>
-                                    <tr>
-                                        <td style="padding: 10px; border: 1px solid #ddd;">🥉 삼성 SW 아카데미 공통 프로젝트 경진대회 우수상</td>
-                                        <td style="padding: 10px; border: 1px solid #ddd;">삼성전자</td>
-                                        <td style="padding: 10px; border: 1px solid #ddd;">2024.02.16</td>
-                                    </tr>
-                                    <tr>
-                                        <td style="padding: 10px; border: 1px solid #ddd;">🏆 삼성 SW 아카데미 1학기 관통 프로젝트 경진대회 최우수상</td>
-                                        <td style="padding: 10px; border: 1px solid #ddd;">삼성전자</td>
-                                        <td style="padding: 10px; border: 1px solid #ddd;">2023.11.24</td>
-                                    </tr>
-                                    <tr>
-                                        <td style="padding: 10px; border: 1px solid #ddd;">🎖️ SSAFY X 신한은행 해커톤 본선진출 (100팀 중 25팀 선발)</td>
-                                        <td style="padding: 10px; border: 1px solid #ddd;">삼성전자, 신한은행</td>
-                                        <td style="padding: 10px; border: 1px solid #ddd;">2023.09.15</td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
+                        <table style="width: 100%; border-collapse: collapse; margin: 20px 0; border: 1px solid #ddd; text-align: center;">
+                            <thead>
+                                <tr style="background-color: #f8f8f8; border-bottom: 2px solid #d8dee4;">
+                                    <th style="padding: 10px; border: 1px solid #ddd;">Title</th>
+                                    <th style="padding: 10px; border: 1px solid #ddd;">Rating</th>
+                                    <th style="padding: 10px; border: 1px solid #ddd;">Hosted by</th>
+                                    <th style="padding: 10px; border: 1px solid #ddd;">Period</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">삼성 청년 SW 아카데미 자율 프로젝트 경진대회</td>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">우수상</td>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">삼성전자주식회사</td>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">2024.05.20</td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">삼성 청년 SW 아카데미 1학기 프로젝트 경진대회</td>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">우수상</td>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">삼성전자주식회사</td>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">2023.11.24</td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">2023 대경권 대학생 프로그래밍 경진대회</td>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">우수상</td>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">안동대학교 SW 융합원</td>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">2023.07.14</td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">2022 창업 아이디어 경진대회</td>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">대상</td>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">안동대학교 SW 융합원</td>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">2022.11.10</td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">2022 대경권 대학생 프로그래밍 경진대회</td>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">동상</td>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">안동대학교 SW 융합원</td>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">2021.12.17</td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">ACK 2021 논문 경진대회</td>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">장려상</td>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">한국정보처리학회</td>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">2021.11.05</td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">2015 대구광역시 지방기능경기대회 모바일로보틱스</td>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">동메달</td>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">대구광역시 기능경기위원회</td>
+                                    <td style="padding: 10px; border: 1px solid #ddd;">2015.04.13</td>
+                                </tr>
+                            </tbody>
+                        </table>
                     </ul>
                 </div>
             </details>
