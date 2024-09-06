@@ -200,7 +200,7 @@
             </td>
             <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">2024.01.03~2024.02.16 (7week)</td>
           </tr>
-          <tr>
+          <tr text-align: center>
             <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">Awesome Group Alarm (AGA)</td>
             <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">그룹 알람 앱</td>
             <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">backend 2, Android 2</td>
