@@ -97,13 +97,32 @@
         </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Me </h2>
         <div style="text-align: left;">
             <details>
                 <summary>
+                    <b>History</b>
+                    <div markdown="1">
+                        <ul>
+                            <li>미래내일 일경험 iM 뱅크 프로젝트 (2024.09.09 ~ ing)</li>
+                            <li>삼성 청년 SW 아카데미 (2023.07.05 ~ 2024.06.07)</li>
+                            <li>안동대학교 SE Lab 학부연구생 (2021.03.08 ~ 2022.09.05)</li>
+                            <li>안동대학교 컴퓨터공학과 (2016.03.02 ~ 2023.08.18)</li>
+                        </ul>
+                    </div>
+                </summary>
+                <summary>
+                    <b>Algorithm</b>
+                    <div markdown="2">
+                        <ul>
+                            [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=habin226)](https://solved.ac/habin226)
+                        </ul>
+                    </div>
+                </summary>
+                <summary>
                     <b>Contact</b>
                 </summary>
-                <div markdown="1">
+                <div markdown="3">
                     <ul>
                         <li>
                             <a href="mailto:dhdudgns6@gmail.com">
@@ -131,7 +150,7 @@
                 <div markdown="1">
                     <ul>
                         <img src="https://github-readme-stats.vercel.app/api?username=HabinOH&bg_color=60,aae9cc,ffffff&title_color=000000&text_color=000000"/>
-                        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabinOH&layout=compact&bg_color=60,aae9cc,ffffff&title_color=000000&text_color=000000"/> 
+                        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabinOH&layout=compact&bg_color=60,aae9cc,ffffff&title_color=000000&text_color=000000"/>
                     </ul>
                 </div>
             </details>
