@@ -156,7 +156,7 @@
         <td style="padding: 10px; border: 1px solid #ddd;">NFC & Bluetooth 기반 오프라인 협업 장려 학급 관리 어플</td>
         <td style="padding: 10px; border: 1px solid #ddd;">backend 3, Android 3</td>
         <td style="padding: 10px; border: 1px solid #ddd;">backend, Infra</td>
-        <td style="padding: 10px; border: 1px solid #ddd;"><a href="#">[Repository](https://github.com/6QuizOnTheBlock/OurClass)</a></td>
+        <td style="padding: 10px; border: 1px solid #ddd;">[Repository](https://github.com/6QuizOnTheBlock/OurClass)</td>
         <td style="padding: 10px; border: 1px solid #ddd;">2024.04.07~2024.05.20</td>
       </tr>
       <!-- Add more rows as needed -->
