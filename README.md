@@ -148,18 +148,16 @@
         <th style="padding: 10px; border: 1px solid #ddd;">Role</th>
         <th style="padding: 10px; border: 1px solid #ddd;">Links</th>
         <th style="padding: 10px; border: 1px solid #ddd;">Period</th>
-        <th style="padding: 10px; border: 1px solid #ddd;">State</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td style="padding: 10px; border: 1px solid #ddd;">울반</td>
         <td style="padding: 10px; border: 1px solid #ddd;">NFC & Bluetooth 기반 오프라인 협업 장려 학급 관리 어플</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">backend 3, mobile 3</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">backend 1, frontend 1</td>
-        <td style="padding: 10px; border: 1px solid #ddd;"><a href="#">Link</a></td>
+        <td style="padding: 10px; border: 1px solid #ddd;">backend 3, Android 3</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">backend, Infra</td>
+        <td style="padding: 10px; border: 1px solid #ddd;"><a href="#">[Repository](https://github.com/6QuizOnTheBlock/OurClass)</a></td>
         <td style="padding: 10px; border: 1px solid #ddd;">2024.04.07~2024.05.20</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">COMPLETE</td>
       </tr>
       <!-- Add more rows as needed -->
     </tbody>
