@@ -114,11 +114,9 @@
             <summary><b>Algorithm</b></summary>
                 <div>
                     <ul>
-                        <li>
-                            <a href="https://solved.ac/habin226">
-                                <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=habin226" alt="Solved.ac Profile">
-                            </a>
-                        </li>
+                        <a href="https://solved.ac/habin226">
+                            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=habin226" alt="Solved.ac Profile">
+                        </a>
                     </ul>
                 </div>
             </details>
@@ -128,12 +126,14 @@
                     <ul>
                         <li>
                             <a href="mailto:dhdudgns6@gmail.com">
-                                <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhdudgns6@gmail.com">
+                                <img src="https://img.shields.io/badge/Gmail-EA4335?
+                                    style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhdudgns6@gmail.com">
                             </a>
                         </li>
                         <li>
                             <a href="https://velog.io/@habins226/posts">
-                                <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@habins226/posts">
+                                <img src="https://img.shields.io/badge/Velog-20C997?
+                                    style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@habins226/posts">
                             </a>
                         </li>
                     </ul>
@@ -151,8 +151,10 @@
                 </summary>
                 <div markdown="1">
                     <ul>
-                        <img src="https://github-readme-stats.vercel.app/api?username=HabinOH&bg_color=60,aae9cc,ffffff&title_color=000000&text_color=000000"/>
-                        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabinOH&layout=compact&bg_color=60,aae9cc,ffffff&title_color=000000&text_color=000000"/>
+                        <img src="https://github-readme-stats.vercel.app/api?
+                            username=HabinOH&bg_color=60,aae9cc,ffffff&title_color=000000&text_color=000000"/>
+                        <img src="https://github-readme-stats.vercel.app/api/top-langs/?
+                            username=HabinOH&layout=compact&bg_color=60,aae9cc,ffffff&title_color=000000&text_color=000000"/>
                     </ul>
                 </div>
             </details>
