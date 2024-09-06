@@ -111,10 +111,14 @@
                 </div>
             </details>
             <details>
-                <summary><b>Algorithm</b></summary>
-                <div markdown="1">
+            <summary><b>Algorithm</b></summary>
+                <div>
                     <ul>
-                        [[Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={habin226})](https://solved.ac/{habin226})
+                        <li>
+                            <a href="https://solved.ac/habin226">
+                                <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=habin226" alt="Solved.ac Profile">
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </details>
