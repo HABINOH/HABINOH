@@ -114,10 +114,7 @@
                 <summary><b>Algorithm</b></summary>
                 <div markdown="1">
                     <ul>
-                        <li>
-                        <a>[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=habin226)](https://solved.ac/habin226)</a>
-                        </li>
+                        [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=habin226)](https://solved.ac/habin226)
                     </ul>
                 </div>
             </details>
