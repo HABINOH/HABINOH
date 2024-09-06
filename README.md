@@ -18,20 +18,29 @@
           </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> 
-        <details>
-           <summary>
-               <b>Contact</b>
-               <div markdown="1">
-                   <ul>
-                       <li><a href=mailto:dhdudgns6@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhdudgns6@gmail.com"> </a></li>
-                       <li><a href=https://velog.io/@habins226/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@habins226/posts"> </a></li>
-                   </ul>
-               </div>
-           </summary> 
-        </details>
-          </div>  <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br>
+<div style="text-align: left;">
+    <details>
+        <summary>
+            <b>Contact</b>
+        </summary>
+        <div markdown="1">
+            <ul>
+                <li>
+                    <a href="mailto:dhdudgns6@gmail.com">
+                        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhdudgns6@gmail.com">
+                    </a>
+                </li>
+                <li>
+                    <a href="https://velog.io/@habins226/posts">
+                        <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@habins226/posts">
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+  <br> 
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
