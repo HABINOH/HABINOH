@@ -47,7 +47,7 @@
         <div style="text-align: left;">
             <details>
                 <summary>
-                    <b>Contact</b>
+                    <b>View</b>
                 </summary>
                 <div markdown="1">
                     <ul>
