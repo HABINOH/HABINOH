@@ -160,56 +160,56 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 Project </h2>
       <table style="width: 100%; border-collapse: collapse; text-align: center; margin: 20px 0; border: 1px solid #ddd;">
         <thead>
-          <tr style="background-color: #f8f8f8; border-bottom: 2px solid #d8dee4;">
-            <th style="padding: 10px; border: 1px solid #ddd; text-align: center;">Subject</th>
-            <th style="padding: 10px; border: 1px solid #ddd; text-align: center;">Description</th>
-            <th style="padding: 10px; border: 1px solid #ddd; text-align: center;">Member</th>
-            <th style="padding: 10px; border: 1px solid #ddd; text-align: center;">Role</th>
-            <th style="padding: 10px; border: 1px solid #ddd; text-align: center;">Links</th>
-            <th style="padding: 10px; border: 1px solid #ddd; text-align: center;">Period</th>
-          </tr>
+            <tr style="background-color: #f8f8f8; border-bottom: 2px solid #d8dee4;">
+                <th style="padding: 10px; border: 1px solid #ddd; text-align: center;">Subject</th>
+                <th style="padding: 10px; border: 1px solid #ddd; text-align: center;">Description</th>
+                <th style="padding: 10px; border: 1px solid #ddd; text-align: center;">Member</th>
+                <th style="padding: 10px; border: 1px solid #ddd; text-align: center;">Role</th>
+                <th style="padding: 10px; border: 1px solid #ddd; text-align: center;">Links</th>
+                <th style="padding: 10px; border: 1px solid #ddd; text-align: center;">Period</th>
+            </tr>
         </thead>
         <tbody>
-          <tr>
-            <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">울반</td>
-            <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">NFC & Bluetooth 기반 오프라인 협업 장려 학급 관리 어플</td>
-            <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">backend 3, Android 3</td>
-            <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">backend, Infra</td>
-            <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">
-                <a href="https://github.com/6QuizOnTheBlock/OurClass" style="text-decoration: none; color: inherit;">Repository</a>
-            </td>
-            <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">2024.04.07~2024.05.20 (7week)</td>
-          </tr>
-          <tr>
-            <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">Finfarm</td>
-            <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">웹 기반 농산물 키우기 시뮬레이션 - 핀테크</td>
-            <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">backend 2, FrontEnd 2, AI 1</td>
-            <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">backend, Infra</td>
-            <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">
-                <a href="https://github.com/HABINOH/finfarm" style="text-decoration: none; color: inherit;">Repository</a>
-            </td>
-            <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">2024.02.19~2024.04.05 (7week)</td>
-          </tr>
-          <tr>
-            <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">Frientree</td>
-            <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">음성, 텍스트 기반 사용자 감정 분석 및 기록 앱</td>
-            <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">backend 3, Android 3</td>
-            <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">backend, Infra</td>
-            <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">
-                <a href="https://github.com/Frientree/Back-End" style="text-decoration: none; color: inherit;">Repository</a>
-            </td>
-            <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">2024.01.03~2024.02.16 (7week)</td>
-          </tr>
-          <tr text-align: center>
-            <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">Awesome Group Alarm (AGA)</td>
-            <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">그룹 알람 앱</td>
-            <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">backend 2, Android 2</td>
-            <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">backend, Infra</td>
-            <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">
-                <a href="https://github.com/MobileAces/AGA_BackEnd" style="text-decoration: none; color: inherit;">Repository</a>
-            </td>
-            <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">2023.12.04~2024.01.07 (5week)</td>
-          </tr>
+            <tr>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">울반</td>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">NFC & Bluetooth 기반 오프라인 협업 장려 학급 관리 어플</td>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">backend 3, Android 3</td>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">backend, Infra</td>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">
+                    <a href="https://github.com/6QuizOnTheBlock/OurClass" style="text-decoration: none; color: inherit;">Repository</a>
+                </td>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">2024.04.07~2024.05.20 (7week)</td>
+            </tr>
+            <tr>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">Finfarm</td>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">웹 기반 농산물 키우기 시뮬레이션 - 핀테크</td>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">backend 2, FrontEnd 2, AI 1</td>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">backend, Infra</td>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">
+                    <a href="https://github.com/HABINOH/finfarm" style="text-decoration: none; color: inherit;">Repository</a>
+                </td>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">2024.02.19~2024.04.05 (7week)</td>
+            </tr>
+            <tr>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">Frientree</td>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">음성, 텍스트 기반 사용자 감정 분석 및 기록 앱</td>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">backend 3, Android 3</td>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">backend, Infra</td>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">
+                    <a href="https://github.com/Frientree/Back-End" style="text-decoration: none; color: inherit;">Repository</a>
+                </td>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">2024.01.03~2024.02.16 (7week)</td>
+            </tr>
+            <tr>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">Awesome Group Alarm (AGA)</td>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">그룹 알람 앱</td>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">backend 2, Android 2</td>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">backend, Infra</td>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">
+                    <a href="https://github.com/MobileAces/AGA_BackEnd" style="text-decoration: none; color: inherit;">Repository</a>
+                </td>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">2023.12.04~2024.01.07 (5week)</td>
+            </tr>
         </tbody>
-    </table>
+      </table>
 </div>
