@@ -158,7 +158,7 @@
     </div>
     <div style="text-align: center;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 Project </h2>
-      <table style="width: 100%; border-collapse: collapse; text-align: center; margin: 20px 0; border: 1px solid #ddd;">
+    <table style="width: 100%; border-collapse: collapse; text-align: center; margin: 20px 0; border: 1px solid #ddd;">
         <thead>
             <tr style="background-color: #f8f8f8; border-bottom: 2px solid #d8dee4;">
                 <th style="padding: 10px; border: 1px solid #ddd; text-align: center;">Subject</th>
@@ -211,5 +211,6 @@
                 <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">2023.12.04~2024.01.07 (5week)</td>
             </tr>
         </tbody>
-      </table>
-    </div>
+    </table>
+</div>
+
