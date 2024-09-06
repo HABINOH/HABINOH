@@ -115,7 +115,8 @@
                 <div markdown="1">
                     <ul>
                         <li>
-                        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=habin226)](https://solved.ac/habin226/)
+                        <a>[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=habin226)](https://solved.ac/habin226)</a>
                         </li>
                     </ul>
                 </div>
