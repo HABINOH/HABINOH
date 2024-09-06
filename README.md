@@ -110,8 +110,6 @@
                     </ul>
                 </div>
             </details>
-            
-            <!-- Algorithm Section -->
             <details>
                 <summary><b>Algorithm</b></summary>
                 <div markdown="1">
@@ -122,8 +120,6 @@
                     </ul>
                 </div>
             </details>
-            
-            <!-- Contact Section -->
             <details>
                 <summary><b>Contact</b></summary>
                 <div markdown="1">
