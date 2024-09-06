@@ -6,6 +6,59 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 끊임없이 고민하고 생각해서 최선의 결과를 도출하려고 고민하는 개발자가 되려고 노력하고 있습니다. </div> 
     </div>
     <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Award </h2>
+        <div style="text-align: left;">
+            <details>
+                <summary>
+                    <b>List</b>
+                </summary>
+                <div markdown="1">
+                    <ul>
+                        <div style="text-align: left;">
+                            <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏆 Achievements</h2>
+                            <table style="width: 100%; border-collapse: collapse; margin: 20px 0; border: 1px solid #ddd; text-align: center;">
+                                <thead>
+                                    <tr style="background-color: #f8f8f8; border-bottom: 2px solid #d8dee4;">
+                                        <th style="padding: 10px; border: 1px solid #ddd;">Title</th>
+                                        <th style="padding: 10px; border: 1px solid #ddd;">Hosted by</th>
+                                        <th style="padding: 10px; border: 1px solid #ddd;">Period</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td style="padding: 10px; border: 1px solid #ddd;">🏅 삼성 SW 아카데미 자율 프로젝트 경진대회 우수상</td>
+                                        <td style="padding: 10px; border: 1px solid #ddd;">삼성전자</td>
+                                        <td style="padding: 10px; border: 1px solid #ddd;">2024.05.20</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding: 10px; border: 1px solid #ddd;">🥈 삼성 SW 아카데미 특화 프로젝트 경진대회 우수상</td>
+                                        <td style="padding: 10px; border: 1px solid #ddd;">삼성전자</td>
+                                        <td style="padding: 10px; border: 1px solid #ddd;">2024.04.05</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding: 10px; border: 1px solid #ddd;">🥉 삼성 SW 아카데미 공통 프로젝트 경진대회 우수상</td>
+                                        <td style="padding: 10px; border: 1px solid #ddd;">삼성전자</td>
+                                        <td style="padding: 10px; border: 1px solid #ddd;">2024.02.16</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding: 10px; border: 1px solid #ddd;">🏆 삼성 SW 아카데미 1학기 관통 프로젝트 경진대회 최우수상</td>
+                                        <td style="padding: 10px; border: 1px solid #ddd;">삼성전자</td>
+                                        <td style="padding: 10px; border: 1px solid #ddd;">2023.11.24</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding: 10px; border: 1px solid #ddd;">🎖️ SSAFY X 신한은행 해커톤 본선진출 (100팀 중 25팀 선발)</td>
+                                        <td style="padding: 10px; border: 1px solid #ddd;">삼성전자, 신한은행</td>
+                                        <td style="padding: 10px; border: 1px solid #ddd;">2023.09.15</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </ul>
+                </div>
+            </details>
+        </div>
+    </div>
+    <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
         <div style="text-align: left;">
             <details>
