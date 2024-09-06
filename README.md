@@ -187,7 +187,7 @@
             <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">backend 2, Android 2</td>
             <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">backend, Infra</td>
             <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">
-                <a href="https://github.com/Frientree/Back-End" style="text-decoration: none; color: inherit;">Repository</a>
+                <a href="https://github.com/MobileAces/AGA_BackEnd" style="text-decoration: none; color: inherit;">Repository</a>
             </td>
             <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">2023.12.04~2024.01.07 (5week)</td>
           </tr>
