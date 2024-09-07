@@ -1,7 +1,7 @@
 <div align= "center"><h2>⚽ 백엔드 개발자 오하빈입니다 ⚽</h2></div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤗Introduce </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 끊임없이 고민하고 생각해서 최선의 결과를 도출하려고 노력하는 개발자가 되려고 노력하고 있습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 끊임없이 고민하고 생각해서 최선의 결과를 도출하는 개발자가 되기 위해 노력하고 있습니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Award </h2>
