@@ -89,6 +89,7 @@
                 <li>안동대학교 SE Lab 학부연구생 (2021.03.08 ~ 2022.09.05)</li>
                 <li>안동대학교 컴퓨터공학과 (2016.03.02 ~ 2023.08.18)</li>
             </ul>
+            <details>
             <summary><b>Algorithm</b></summary>
                 <div>
                     <ul>
