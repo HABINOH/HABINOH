@@ -33,7 +33,7 @@
                             <td style="padding: 10px; border: 1px solid #ddd;">2023 대경권 대학생 프로그래밍 경진대회</td>
                             <td style="padding: 10px; border: 1px solid #ddd;">우수상</td>
                             <td style="padding: 10px; border: 1px solid #ddd;">안동대학교 SW 융합원</td>
-                            <td style="padding: 10px; border: 1px solid #ddd;">2023.07.14</td>
+                            <td style="padding: 10px; border: 1px solid #ddd;">2023.07.06</td>
                         </tr>
                         <tr>
                             <td style="padding: 10px; border: 1px solid #ddd;">2022 창업 아이디어 경진대회</td>
